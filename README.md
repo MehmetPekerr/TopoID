@@ -53,7 +53,7 @@ Video Streams (MP4)
 
 ```
 TopoID/
-├── multi_camera_tracking.ipynb   # Main notebook
+├── TopoID.ipynb   # Main notebook
 └── README.md
 ```
 
@@ -103,7 +103,7 @@ scipy
 ## 📖 Usage
 
 1. Upload your video files to `/content/cameras/`
-2. Open `multi_camera_tracking.ipynb` in Jupyter / Google Colab
+2. Open `TopoID.ipynb` in Jupyter / Google Colab
 3. Run all cells
 4. Results will be saved as YOLO-format labels and `global_id_mapping.json`
 
